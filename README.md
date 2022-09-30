@@ -7,6 +7,9 @@ Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão
 - Gestão Operacional ();
 - Gestão de Marketing ();
 
+##Anotações da aula de git
+- Visitar o pandão para praticar a linguagem markdown (aprendera formatação do texto e etc)
+
 ## Passos
 
 Descrever os 5 passos para elaboração do projeto de inovação. Nesse contexto, os detalhes sobre o objetivo de cada passo estão disponíveis [aqui](https://academiapme-my.sharepoint.com/:w:/g/personal/marjory_dio_me/Efb7IK14WzJNhnx7wmDwh9gBydAUvsgfLgGvpanquISsZg). Basicamente, segue uma síntese de cada passo:
